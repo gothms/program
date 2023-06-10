@@ -1,14 +1,13 @@
-# basic
-Basic Programmer Skills
+# Basic Programmer Skills
 ### 数据结构与算法
 ### 操作系统
 ### 计算机网络
 ### 编译原理
-golang
+# golang
 ### 数据库
 ### 消息中间件
 ### 设计模式
-基础技能
+# 其他基础技能
 ### 版本控制
 ### 软件开发生命周期
 ### 调试和排错
